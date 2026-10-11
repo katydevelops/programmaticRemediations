@@ -1,6 +1,6 @@
 # 🛠️ Programmatic Vulnerability Remediations
 
-<img width="1000"alt="Programmatic remediations header image" src="https://github.com/user-attachments/assets/f5dea6a6-f7e9-4879-ad07-6a1a501a704a" />
+<img width="1000" alt="Programmatic remediations header image" src="https://github.com/user-attachments/assets/f5dea6a6-f7e9-4879-ad07-6a1a501a704a" />
 
 
 > Turning vulnerability findings into repeatable fixes.
